@@ -17,11 +17,11 @@ public class Course {
  public void setId(String courseId){
      this.courseId=courseId;
     }
-    public String getFirstName() {
+    public String getCourseName() {
         return courseName;
     }
 
-    public void setFirstName(String courseName) {
+    public void setCourseName(String courseName) {
         this.courseName = courseName;
     }
 
